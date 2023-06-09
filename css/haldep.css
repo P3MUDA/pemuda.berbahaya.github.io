@@ -325,7 +325,7 @@ nav{
   }
 }
 
-@media screen and (max-width :700px)  {
+@media screen and (max-width :720px)  {
 
   *, html{
     margin: 0;
@@ -418,5 +418,8 @@ nav{
     padding: 8px;
     border-radius: 25px;
   }
+  .form{
+    flex-direction: column;
+    
   
 }

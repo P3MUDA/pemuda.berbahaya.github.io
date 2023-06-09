@@ -325,7 +325,7 @@ nav{
   }
 }
 
-@media screen and (max-width :700px)  {
+/*@media screen and (max-width :700px)  {
 
   *, html{
     margin: 0;
@@ -419,4 +419,4 @@ nav{
     border-radius: 25px;
   }
   
-}
+}*/
